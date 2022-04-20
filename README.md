@@ -4,7 +4,7 @@ App description
 Author: Your name here
 
 ## Notes
-Notes here.
+Notes here
 
 ## Instructions
 * python3 -m venv venv
